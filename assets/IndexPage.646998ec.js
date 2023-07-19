@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.763e8197.js";import{_,I as a,J as r}from"./index.88490bcf.js";const t={__name:"IndexPage",setup(o){return(s,c)=>(a(),r(e))}};var d=_(t,[["__scopeId","data-v-28e78ae4"]]);export{d as default};
